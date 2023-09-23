@@ -6,6 +6,12 @@ This is the initial example app you get when you first setup RSCs
 
 ## How to run
 
+### GitPod
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
+### Locally
+
 `yarn install`
 
 `yarn rw build -v && yarn rw serve`
